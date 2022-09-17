@@ -1,4 +1,4 @@
-![Principal](img/img01.png)
+![Principal](Img/img01.png)
 
 # Realizado Por
 1. [Paula Andrea Cuellar Moreno][00]
