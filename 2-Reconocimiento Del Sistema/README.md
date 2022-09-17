@@ -13,7 +13,7 @@
 | 8 | <cite style="display:block; text-align: center"> ping -ac 10 8.8.8.8 | <cite style="display:block; text-align: justify"> Utiliza el comando <b>ping</b> con la opción <b>-a</b> y la dirección IP del ordenador de destino para averiguar el nombre de host del destino. Se muestra el nombre del ordenador junto con la estadística Ping en el terminal. Con la bandera <b>-c</b> (recuento), puede especificar el número de pings que desea realizar.</cite>| ![R.Sis](img_Sis/img08.png)|
 | 9 | <cite style="display:block; text-align: center"> ping -c 10 1.1.1.1 | <cite style="display:block; text-align: justify"> Con la bandera <b>-c</b> (recuento), puede especificar el número de pings que desea realizar.</cite>| ![R.Sis](img_Sis/img09.png)|
 | 10 | <cite style="display:block; text-align: center"> route -n | <cite style="display:block; text-align: justify"> Mostrar la tabla de enrutamiento en forma numérica completa.</cite>| ![R.Sis](img_Sis/img10.png)|
-| 11 | <cite style="display:block; text-align: center"> route.exe print | <cite style="display:block; text-align: justify"> Mostrar la tabla de enrutamiento en forma numérica completa.</cite>| ![R.Sis](img_Sis/img10.png)|
+| 11 | <cite style="display:block; text-align: center"> route.exe print | <cite style="display:block; text-align: justify"></cite>| ![R.Sis](img_Sis/img11.png)|
 
 
 # Mas Información
