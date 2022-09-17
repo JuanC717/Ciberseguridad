@@ -13,7 +13,8 @@
 | 8 | <cite style="display:block; text-align: center"> ping -ac 10 8.8.8.8 | <cite style="display:block; text-align: justify"> Utiliza el comando <b>ping</b> con la opción <b>-a</b> y la dirección IP del ordenador de destino para averiguar el nombre de host del destino. Se muestra el nombre del ordenador junto con la estadística Ping en el terminal. Con la bandera <b>-c</b> (recuento), puede especificar el número de pings que desea realizar.</cite>| ![R.Sis](img_Sis/img08.png)|
 | 9 | <cite style="display:block; text-align: center"> ping -c 10 1.1.1.1 | <cite style="display:block; text-align: justify"> Con la bandera <b>-c</b> (recuento), puede especificar el número de pings que desea realizar.</cite>| ![R.Sis](img_Sis/img09.png)|
 | 10 | <cite style="display:block; text-align: center"> route -n | <cite style="display:block; text-align: justify"> Mostrar la tabla de enrutamiento en forma numérica completa.</cite>| ![R.Sis](img_Sis/img10.png)|
-| 11 | <cite style="display:block; text-align: center"> route.exe print | <cite style="display:block; text-align: justify"></cite>| ![R.Sis](img_Sis/img11.png)|
+| 11 | <cite style="display:block; text-align: center"> route.exe print | <cite style="display:block; text-align: justify">muestra la configuración de enrutamiento de la red en el host.</cite>| ![R.Sis](img_Sis/img11.png)|
+| 12 | <cite style="display:block; text-align: center"> tracert.exe 8.8.8.8 | <cite style="display:block; text-align: justify">ofrecen una solución simple para seguir de cerca la pista a determinados paquetes de datos. Con base en estos resultados, el usuario puede diagnosticar qué estaciones individuales han enviado paquetes con un destino previsto, y dónde han surgido dificultades. Así, es posible identificar desvíos complicados o fallos en el router para comenzar con la solución de problemas.</cite>| ![R.Sis](img_Sis/img12.png)|
 
 
 # Mas Información
@@ -21,6 +22,7 @@
 * [¿Qué es PING y cómo usarlo?][1_1]
 * [Cómo utilizar el comando Ping en Windows][1_2]
 * [COMANDO ROUTE EN LINUX CON EJEMPLOS][1_3]
+* [¿Qué es Traceroute (tracert)?][1_4]
 
 [1_0]:https://esgeeks.com/direccion-ip-publica-en-linux/#:~:text=curl%20-s%20http%3A%2Fifconfig,dirección%20IP%20pública%20mediante%20curl.&text=ifconfig.me%20es%20un%20servicio,cadena%20de%20agente%20de%20usuario.
 
@@ -29,3 +31,5 @@
 [1_2]:https://www.ionos.es/digitalguide/servidores/herramientas/comando-ping/
 
 [1_3]:https://es.acervolima.com/comando-route-en-linux-con-ejemplos/#:~:text=El%20comando%20route%20en%20Linux,de%20enrutamiento%20de%20IP%20%2F%20kernel.
+
+[1_4]:https://www.ionos.es/digitalguide/servidores/herramientas/usa-traceroute-y-sigue-la-pista-de-tus-paquetes-de-datos/
