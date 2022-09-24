@@ -10,3 +10,14 @@
 Para realizar el engaño, habitualmente se hace uso de la ingeniería social explotando los instintos sociales de la gente, como es de ayudar o ser eficiente. También mediante la adulación de la víctima, explotando su intrínseca vanidad o necesidad de ser reconocido, baja autoestima, o una persona que busca trabajo. Por ejemplo, enviando correos electrónicos o mostrando publicidades a la víctima diciéndole que ha ganado un premio y que siga un enlace para recibirlo, siendo aquellas promesas falsas (un cebo). A veces también se hace uso de procedimientos informáticos que aprovechan vulnerabilidades. Habitualmente el objetivo es robar información pero otras veces es instalar malware, sabotear sistemas, o robar dinero a través de fraudes.
 
 <div align=center><img width="400" src="img/img02.gif"></div>
+
+<text style = "display:block; text-align: justify">
+
+# Mas Información
+* [Phishing][1_0]
+* [¿Puedes detectar cuándo te están engañando?][1_1]
+
+
+[1_0]:https://es.wikipedia.org/wiki/Phishing#Técnicas_de_phishing
+
+[1_1]:https://phishingquiz.withgoogle.com
