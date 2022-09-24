@@ -1,10 +1,6 @@
 # <text style = "display:block; text-align: center"> <b>PHISHING - SUPLANTACION</b>
 
-<div style="text-align: center;">
-
-<img width="400" src="img/img01.gif">
-
-</div>
+<div align=center><img width="400" src="img/img01.gif"></div>
 
 <text style = "display:block; text-align: center">
 
