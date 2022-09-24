@@ -77,6 +77,7 @@ Ahora comprobamos que tengamos agragada la carpeta de instalacion de NMAP en el 
 - Como podemos ver ya tenemos agregada la ruta de instalacion de NMAP en PATH
 <div align=center><img src="img/img20.png"></div>
 
+_________________________________________________________________________________
 # **Comandos**
 
 | # | **Comandos** |**Descripcion**| **Imangen**
