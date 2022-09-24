@@ -86,10 +86,10 @@ ________________________________________________________________________________
 | 19 |**nmap 172.25.160.1**| Este es el formato básico para Nmap y devolverá información sobre los puertos en ese sistema.|<div align=center><img src="img/img22.png"></div>
 | 20 |**nmap -sP -n xxx.xxx.xxx.0/24**| |<div align=center><img src="img/img23.png"></div>
 | 21 |**nmap -sP -n xxx.xxx.xxx.100-110**| |<div align=center><img src="img/img24.png"></div>
-| 22 |**nmap -iL lista_ip.txt**| |<div align=center><img src="img/img25.png"></div>
+| 22 |**nmap -iL lista_ip.txt**|Se pasan los objetivos en un fichero, cada uno en una línea|<div align=center><img src="img/img25.png"></div>
 | 23 |**nmap scanme.nmap.org**|Esta opción escanea todos los puertos TCP reservados en la máquina scanme.nmap.org.|<div align=center><img src="img/img26.png"></div>
 | 24 |**nmap 1.1.1.1 8.8.8.8**|Esta opción escanea dos direcciones IP a la misma vez. |<div align=center><img src="img/img27.png"></div>
-| 25 |**nmap udenar.edu.co**| |<div align=center><img src="img/img28.png"></div>
+| 25 |**nmap udenar.edu.co**||<div align=center><img src="img/img28.png"></div>
 
 # Mas Información
 * [NMAP][1_0]
