@@ -16,6 +16,6 @@
 
 [02]:https://github.com/JuanC717/Ciberseguridad/tree/main/2-Reconocimiento%20Del%20Sistema
 
-[03]:https://github.com/JuanC717/Ciberseguridad/tree/main/1%20-%20Suplantaci%C3%B3n
+[03]:https://github.com/JuanC717/Ciberseguridad/tree/main/1-Suplantaci%C3%B3n
 
 [04]:https://github.com/JuanC717/Ciberseguridad/tree/main/3-NMAP
