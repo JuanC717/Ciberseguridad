@@ -1,4 +1,4 @@
-# <text style = "display:block; text-align: center"> <b>Reconocimiento Del Sistema</b></text>
+# <text style = "display:block; text-align: center">**Reconocimiento Del Sistema**</text>
 
 | # | **Comandos** | <text style = "display:block; text-align: center"> Descripcion | <text style = "display:block; text-align: center">Imagen
 |-- |--:|--:|--:| 
@@ -19,6 +19,7 @@
 | 15 | <cite style="display:block; text-align: center"> netstat.exe-nat - grep -c 'ESTABLISHED' | <cite style="display:block; text-align: justify"></cite>| ![R.Sis](img_Sis/img15.png)|
 | 16 | <cite style="display:block; text-align: center"> netstat.exe -nao - grep 'LISTEN' > cat ports_up.txt | <cite style="display:block; text-align: justify"></cite>| ![R.Sis](img_Sis/img16.png)|
 | 17 | <cite style="display:block; text-align: center"> cat ports_up.txt | <cite style="display:block; text-align: justify"></cite>| ![R.Sis](img_Sis/img17.png)|ç
+
 
 
 
