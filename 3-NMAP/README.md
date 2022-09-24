@@ -1,4 +1,4 @@
-<h1><div align=center><img width="400" src="img/img01.jpg"></div></h1>
+<h1><div align=center><img src="img/img01.jpg"></div></h1>
 
 # <text style = "display:block; text-align: center"> <b>NMAP</b>
 
@@ -12,7 +12,11 @@ Este software posee varias funciones para sondear redes de computadores, incluye
 
 <text style = "display:block; text-align: justify"> 
 
+Nos dirigimos al siguiente enlace: https://nmap.org/download.html#windows
 
+Seleccionamos donde indica la siguiente imagen para descargar la versión estable más reciente:
+
+<div align=center><img src="img/img02.jpg"></div>
 
 
 
