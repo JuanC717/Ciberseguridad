@@ -82,7 +82,7 @@ ________________________________________________________________________________
 
 | # | **Comandos** |**Descripcion**| **Imangen**
 |-- |--:|--:|--:|
-| 18 |**nmap localhost**| Estos son los puertos abiertos para la dirección “localhost”, que no es otra dirección más que la propia de la máquina servidor. Estos puertos evidentemente son locales, lo que quiere decir que no todos ellos necesiten ser abiertos en un router para poder dar los servicios hacia Internet, aunque muchos de ellos si.|<div align=center><img src="img/img21.png"></div>
+| 18 |**nmap localhost**| Estos son los puertos abiertos para la dirección **“localhost”**, que no es otra dirección más que la propia de la máquina servidor. Estos puertos evidentemente son locales, lo que quiere decir que no todos ellos necesiten ser abiertos en un router para poder dar los servicios hacia Internet, aunque muchos de ellos si.|<div align=center><img src="img/img21.png"></div>
 
 # Mas Información
 * [NMAP][1_0]
