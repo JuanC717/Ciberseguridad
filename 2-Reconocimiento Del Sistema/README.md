@@ -1,6 +1,5 @@
 # <text style = "display:block; text-align: center"> <b>Reconocimiento Del Sistema</b>
 
-
 | # | Comandos | <text style = "display:block; text-align: center"> Descripcion | <text style = "display:block; text-align: center">Imagen
 |-- |--:|--:|--:| 
 | 1 | <cite style="display:block; text-align: center"> uname -a | <cite style="display:block; text-align: justify">El comando (sudo su) permite a los Se mostrará el nombre del kernel o núcleo del sistema operativo. Pero este comando dispone del siguiente conjunto de opciones, que permiten obtener más información del sistema Linux donde se ejecute: <b>«a minúscula» / –all </b>, Si se añade al comando <b>uname</b> cualquiera de estas dos opciones, se mostrará toda la información técnca del sistema, que puede mostrar el comando uname: <b>uname -a;  uname --all</b></cite>| ![R.Sis](img_Sis/img01.png) | 
