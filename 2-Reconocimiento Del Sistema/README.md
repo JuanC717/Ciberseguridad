@@ -1,8 +1,8 @@
 # <text style = "display:block; text-align: center"> <b>Reconocimiento Del Sistema</b></text>
 
-| # | Comandos | <text style = "display:block; text-align: center"> Descripcion | <text style = "display:block; text-align: center">Imagen
+| # | **Comandos** | <text style = "display:block; text-align: center"> Descripcion | <text style = "display:block; text-align: center">Imagen
 |-- |--:|--:|--:| 
-| 1 | <cite style="display:block; text-align: center"> uname -a | <cite style="display:block; text-align: justify">El comando (sudo su) permite a los Se mostrará el nombre del kernel o núcleo del sistema operativo. Pero este comando dispone del siguiente conjunto de opciones, que permiten obtener más información del sistema Linux donde se ejecute: <b>«a minúscula» / –all </b>, Si se añade al comando <b>uname</b> cualquiera de estas dos opciones, se mostrará toda la información técnca del sistema, que puede mostrar el comando uname: <b>uname -a;  uname --all</b></cite>| ![R.Sis](img_Sis/img01.png) | 
+| 1 |uname -a| <cite style="display:block; text-align: justify">El comando (sudo su) permite a los Se mostrará el nombre del kernel o núcleo del sistema operativo. Pero este comando dispone del siguiente conjunto de opciones, que permiten obtener más información del sistema Linux donde se ejecute: <b>«a minúscula» / –all </b>, Si se añade al comando <b>uname</b> cualquiera de estas dos opciones, se mostrará toda la información técnca del sistema, que puede mostrar el comando uname: <b>uname -a;  uname --all</b></cite>| ![R.Sis](img_Sis/img01.png) | 
 | 2 | <cite style="display:block; text-align: center"> cat /proc/sys/kernel/hostname | <cite style="display:block; text-align: justify">Con el comando <b>“cat”</b> podemos visualizar la información contenido en ficheros. Por lo que lo utilizaremos para ver el contenido del fichero <b>“/proc/sys/kernel/hostname»</b>.</cite>| ![R.Sis](img_Sis/img02.png)|
 | 3 | <cite style="display:block; text-align: center"> echo "$USER" | <cite style="display:block; text-align: justify"><b>echo</b> también puede mostrar variables. <b>$USER</b> es una variable de shell que contiene su nombre de usuario.</cite>| ![R.Sis](img_Sis/img03.png)|
 | 4 | <cite style="display:block; text-align: center"> pwd | <cite style="display:block; text-align: justify">El comando ls es una utilidad de El comando pwd significa “directorio de trabajo de impresión” y es un comando de Linux simple pero útil. Este comando se usa para mostrar el nombre de su directorio actual, lo que puede ser útil al navegar por el sistema de archivos.</cite>| ![R.Sis](img_Sis/img04.png)|
@@ -18,7 +18,9 @@
 | 14 | <cite style="display:block; text-align: center"> netstat.exe -nt | <cite style="display:block; text-align: justify">Los archivos TCP/IP Netstat Command, tales como NETSTAT.EXE, se consideran un tipo de archivo Win32 EXE (Aplicación ejecutable), el comando <b>netstat.exe</b> con la opcion <b>-n</b> nos muestra una visualización numérica de direcciones y números de puerto y con la opcion <b>-t</b> nos muestra el estado de la descarga (descarga TCP para aliviar el procesador principal) de las conexiones activas, combinadas nos dara el siguiente resultado.</cite>| ![R.Sis](img_Sis/img14.png)|
 | 15 | <cite style="display:block; text-align: center"> netstat.exe-nat - grep -c 'ESTABLISHED' | <cite style="display:block; text-align: justify"></cite>| ![R.Sis](img_Sis/img15.png)|
 | 16 | <cite style="display:block; text-align: center"> netstat.exe -nao - grep 'LISTEN' > cat ports_up.txt | <cite style="display:block; text-align: justify"></cite>| ![R.Sis](img_Sis/img16.png)|
-| 17 | <cite style="display:block; text-align: center"> cat ports_up.txt | <cite style="display:block; text-align: justify"></cite>| ![R.Sis](img_Sis/img17.png)|
+| 17 | <cite style="display:block; text-align: center"> cat ports_up.txt | <cite style="display:block; text-align: justify"></cite>| ![R.Sis](img_Sis/img17.png)|ç
+
+
 
 # Mas Información
 * [CÓMO SABER LA DIRECCIÓN IP PÚBLICA EN LINUX][1_0]
