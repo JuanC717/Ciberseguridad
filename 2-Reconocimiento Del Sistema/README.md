@@ -1,4 +1,4 @@
-# <text style = "display:block; text-align: center"> <b>Reconocimiento Del Sistema</b>
+# <text style = "display:block; text-align: center"> <b>Reconocimiento Del Sistema</b></text>
 
 | # | Comandos | <text style = "display:block; text-align: center"> Descripcion | <text style = "display:block; text-align: center">Imagen
 |-- |--:|--:|--:| 
