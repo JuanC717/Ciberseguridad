@@ -62,7 +62,20 @@ Una ves descargado procedemos con la instalación:
 14- Ya tendriamos instalado NMAP
 <div align=center><img src="img/img16.png"></div>
 
+# Comprobacion de la carpeta de instalacion NMAP en el PATH
+Ahora comprobamos que tengamos agragada la carpeta de instalacion de NMAP en el PATH del sistema de Windows
 
+- Presionaremos nuestra tecla de Windows de nuestro teclado y escribiremos "variable, lo cual nos mostrara un aplicativo llamado "Editar las variables de entorno del sistema" la cual daremos Click
+<div align=center><img src="img/img17.png"></div>
+
+- Nos aparecera este recuadro y seleccionaremos donde dice "Variables de entorno.."
+<div align=center><img src="img/img18.png"></div>
+
+- Seleccionamos donde dice "Path" y luego en "Editar"
+<div align=center><img src="img/img19.png"></div>
+
+- Como podemos ver ya tenemos agregada la ruta de instalacion de NMAP en PATH
+<div align=center><img src="img/img20.png"></div>
 
 # Mas Información
 * [NMAP][1_0]
