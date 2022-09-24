@@ -1,12 +1,8 @@
 # <text style = "display:block; text-align: center"> <b>PHISHING - SUPLANTACION</b>
 
-<body>
-
 <text style = "display:block; text-align: center">  
 
 ![Phishing](img/img01.gif) 
-
-
 
 <b><u>¿Que es Phishing?</u></b>
 
@@ -14,5 +10,3 @@
 
 <cite style="display:block; text-align: justify">
 Para realizar el engaño, habitualmente se hace uso de la ingeniería social explotando los instintos sociales de la gente, como es de ayudar o ser eficiente. También mediante la adulación de la víctima, explotando su intrínseca vanidad o necesidad de ser reconocido, baja autoestima, o una persona que busca trabajo. Por ejemplo, enviando correos electrónicos o mostrando publicidades a la víctima diciéndole que ha ganado un premio y que siga un enlace para recibirlo, siendo aquellas promesas falsas (un cebo). A veces también se hace uso de procedimientos informáticos que aprovechan vulnerabilidades. Habitualmente el objetivo es robar información pero otras veces es instalar malware, sabotear sistemas, o robar dinero a través de fraudes.</cite>
-
-</body>
