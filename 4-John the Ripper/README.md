@@ -85,7 +85,7 @@ Con esto ya estaremos listos para probar los comandos necesarios y realizar prue
 | 27 |**ls /usr/share/john/**|Nos muestra lo que tenemos en la carpeta John|<div align=center><img src="img/img04.png"></div>
 | 28 |**cat /usr/share/john/password.lst**|Muestra el contenido del archivo password.lst|<div align=center><img src="img/img05.png"></div>
 | 29 |**sudo useradd -m test**|Añade el usuario X con una clave|<div align=center><img src="img/img06.png"></div>
-| 30 |**sudo passwd test**Hacemos un test del nuevo password|<div align=center><img src="img/img07.png"></div>
+| 30 |**sudo passwd test**|Hacemos un test del nuevo password|<div align=center><img src="img/img07.png"></div>
 | 31 |**sudo tail /etc/shadow**|NN (No sabo No Respondo ☺♥)|<div align=center><img src="img/img08.png"></div>
 | 32 |**sudo john --wordlist=/usr/share/john/password.lst /etc/shadow**| |<div align=center><img src="img/img09.png"></div>
 | 33 |**sudo passwd test**| |<div align=center><img src="img/img10.png"></div>
