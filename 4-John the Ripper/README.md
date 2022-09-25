@@ -75,6 +75,8 @@ Utilizaremos el siguiente comando
 
 Como podemos ver, se llevan a cabo una serie de tests donde se medirá el rendimiento, esto nos puede dar una idea en general de la potencia de procesamiento de nuestro ordenador, con el objetivo de probar todas las combinaciones de letras, números y símbolos en el menor tiempo posible.
 
+Con esto ya estaremos listos para probar los comandos necesarios y realizar pruebas.
+
 # Mas Información
 * [Crackea contraseñas rápidamente usando John the Ripper][1_0]
 
