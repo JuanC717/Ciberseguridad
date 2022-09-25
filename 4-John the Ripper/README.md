@@ -53,6 +53,28 @@ Este programa nos permite configurar este ataque de fuerza bruta, le indicaremos
 
 Una vez que ya conocemos qué es John the Ripper y sus dos modos de funcionamiento, vamos a ver cómo puede utilizar un administrador de sistemas este programa para comprobar la seguridad de la clave del equipo. De esta forma, comprobaremos si somos vulnerables a un ataque de fuerza bruta o diccionario por parte de un pirata informático que busca obtener acceso remoto (o local) al mismo.
 
+# **Instalación**
+
+<text style = "display:block; text-align: justify"> Para instalar **John the Ripper** utilizaremos el siguiente comando
+
+                                    sudo apt install john
+
+<h1><div align=center><img src="img/img02.png"></div></h1>
+
+<text style = "display:block; text-align: justify">Una vez instalada la herramienta en nuestro sistema operativo, ya podremos utilizarla y empezar a crackear contraseñas, no obstante, sería muy recomendable antes de empezar a crackear claves, realizar una prueba rápida de velocidad de nuestro ordenador.
+
+# **Probar el rendimiento en nuestro PC**
+
+<text style = "display:block; text-align: justify">Antes de empezar con el crackeo de las contraseñas podemos lanzar un sencillo test de rendimiento donde se pondrá a prueba nuestro hardware. De esta manera, podremos saber la velocidad con la que la herramienta probará claves con diferentes tipos de cifrado utilizando el 100% de nuestra CPU.
+
+Utilizaremos el siguiente comando
+
+                                            john --test
+
+<h1><div align=center><img src="img/img03.png"></div></h1>
+
+Como podemos ver, se llevan a cabo una serie de tests donde se medirá el rendimiento, esto nos puede dar una idea en general de la potencia de procesamiento de nuestro ordenador, con el objetivo de probar todas las combinaciones de letras, números y símbolos en el menor tiempo posible.
+
 # Mas Información
 * [Crackea contraseñas rápidamente usando John the Ripper][1_0]
 
