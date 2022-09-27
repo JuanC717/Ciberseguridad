@@ -8,6 +8,7 @@
 1. [Suplantación][03]
 1. [Reconocimiento del Sistema][02]
 1. [NMAP][04]
+1. [John the Ripper][05]
 
 
 [00]:https://github.com/Paula717
@@ -19,3 +20,5 @@
 [03]:https://github.com/JuanC717/Ciberseguridad/tree/main/1-Suplantaci%C3%B3n
 
 [04]:https://github.com/JuanC717/Ciberseguridad/tree/main/3-NMAP
+
+[05]:https://github.com/JuanC717/Ciberseguridad/tree/main/4-John%20the%20Ripper
