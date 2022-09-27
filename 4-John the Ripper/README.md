@@ -89,7 +89,7 @@ Con esto ya estaremos listos para probar los comandos necesarios y realizar prue
 | 31 |**sudo tail /etc/shadow**|NN (No sabo No Respondo ☺♥)|<div align=center><img src="img/img08.png"></div>
 | 32 |**sudo john --wordlist=/usr/share/john/password.lst /etc/shadow**|Realiza la prueba de desifrar la contraseña y nos indica el tiempo que demora en desifrarla|<div align=center><img src="img/img09.png"></div>
 | 33 |**sudo passwd test**|Hacemos un test del nuevo password|<div align=center><img src="img/img10.png"></div>
-| 34 |**sudo john /etc/shadow**|Realiza la pruba de desifrar la contraseña|<div align=center><img src="img/img11.png"></div>
+| 34 |**sudo john /etc/shadow**|Realiza la prueba de desifrar la contraseña|<div align=center><img src="img/img11.png"></div>
 
 # Mas Información
 * [Crackea contraseñas rápidamente usando John the Ripper][1_0]
