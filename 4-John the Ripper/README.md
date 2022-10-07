@@ -80,7 +80,7 @@ Con esto ya estaremos listos para probar los comandos necesarios y realizar prue
 
 
 | # | **Comandos** |**Descripcion**| **Imangen**
-|-- |--:|--:|--:|
+|-- |:--:|:--:|:--:|
 | 26 |**sudo apt install john** |Instalar **John the Ripper** por consola|<div align=center><img src="img/img02.png"></div>
 | 27 |**ls /usr/share/john/**|Nos muestra lo que tenemos en la carpeta John|<div align=center><img src="img/img04.png"></div>
 | 28 |**cat /usr/share/john/password.lst**|Muestra el contenido del archivo password.lst|<div align=center><img src="img/img05.png"></div>
